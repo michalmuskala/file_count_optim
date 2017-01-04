@@ -78,3 +78,7 @@ recur_count       11.99 K - 1.13x slower
 read_line          6.49 K - 2.09x slower
 current            5.83 K - 2.33x slower
 ```
+
+## Attribution
+
+The test files are borrowed from https://github.com/bbense/beatwc
